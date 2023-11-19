@@ -1,3 +1,3 @@
 # projeto-estagio
-Trabalho de estágio - Multivix
-Mayara Andreão
+<stong>ESTÁGIO SUPERVISIONADO: ATIVIDADE PRÁTICA PROFISSIONAL </strong></br>
+<strong>Aluno:</strong> Mayara Andreão
